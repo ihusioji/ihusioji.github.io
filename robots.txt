@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ihusioji.github.io/IEN/sitemap_index.txt
+Sitemap: https://ihusioji.github.io/JVb/sitemap_index.txt
+Sitemap: https://ihusioji.github.io/oEt/sitemap_index.txt
+Sitemap: https://ihusioji.github.io/twA/sitemap_index.txt
